@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 from aiogram import Bot, Dispatcher, types
 from aiogram.utils import executor
 
-BOT_TOKEN = "7212402737:AAEyhlFTNXm9po5sDlssV8r-z9_Pqyi-mSg"
+BOT_TOKEN = "7470984428:AAH7UDG2Xj7UPvhUNNEJCv6X-RddfeKzVEg"
 API_URL = "https://aditya-ff-like-api.vercel.app/like"
 REGION = "ind"
 DATA_FILE = "uids.json"
